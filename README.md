@@ -9,7 +9,7 @@
 
 
    
-[APPROACH]
+[APPROACH]  
 process had been improved through 3 steps.  
 
 1) used normal RNN combined with CNN encoder
