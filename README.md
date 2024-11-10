@@ -16,4 +16,4 @@ process had been improved through 3 steps.
 2) added attention layer on the decoder to utilize image embedding vector, which is on the encoder layer
 3) tried transformer based sequence model (but showed lower performance since it needs much more train data to generalize problem, related to it's weak inductive bias)
 
-*) can see description through "./method_description.pdf"
+*can see more specific trial process through "./method_description.pdf"*
